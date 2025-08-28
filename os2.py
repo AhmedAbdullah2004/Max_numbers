@@ -1,1 +1,1 @@
-print("Python os2 project")
+print("hello world")
